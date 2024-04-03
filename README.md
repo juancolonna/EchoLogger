@@ -53,9 +53,7 @@ EchoLogger is a modularized low-cost development board project primarily aimed a
 - **Cycle:** Sleep -> Wake Up -> Record -> Save Data -> Back to Sleep
 - **Power Consumption Estimation:** 30mAh (3.3V - 0.15Wh)
 
-## Additional Information
-
-[<img src="board images/logos/BannerATA.png" width="400"/>](ATA)
+<!-- ## Additional Information -->
 
 ---
 Feel free to reach out for any inquiries or collaborations!

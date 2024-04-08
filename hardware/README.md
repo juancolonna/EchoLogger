@@ -1,4 +1,4 @@
-## Opening the Project with Easy EAD
+## Opening the Project with Easy EAD Pro
 
 This guide walks you through opening the `EchoLogger.eprj` project in Easy EAD.
 

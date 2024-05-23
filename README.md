@@ -21,7 +21,7 @@ EchoLogger is a modularized low-cost development board project primarily aimed a
 
 | TOP VIEW | BOTTOM VIEW|
 |----------|------------|
-|<img src="board%20images/BoardTop2D_v3.png" width="200"/>|<img src="board%20images/BoardBottom2D_v3.png" width="200"/>|
+|<img src="board%20images/BoardTop2D_v4.png" width="200"/>|<img src="board%20images/BoardBottom2D_v4.png" width="200"/>|
 
 - **Dimensions:** 600mm (length) x 500mm (width) x 130mm (height)
 - **Microcontroller:** ESP32-WROOM-32S (BLE 4.0 & WiFi 802.11 b/g)

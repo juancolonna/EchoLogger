@@ -54,7 +54,7 @@ EchoLogger is a modularized low-cost development board project primarily aimed a
 - **Power Consumption Estimation:** 30mAh (3.3V - 0.15Wh)
 
 ### Deployment example!
-<img src="case/deployment.jpeg" width="200"/>
+<img src="case/deployment.jpeg" width="300"/>
 
 <!-- ## Additional Information -->
 
